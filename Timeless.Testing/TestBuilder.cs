@@ -15,7 +15,7 @@ namespace Timeless.Testing
 
     public sealed class TestBuilder : ITestBuilder
     {
-        // TODO: docs + should ILogger be a param of the test step delegate?
+        // TODO: docs + should ILogger and context be params of the test step delegate?
 
         private readonly IServiceCollection services;
         private readonly Queue<TestStep> testSteps;

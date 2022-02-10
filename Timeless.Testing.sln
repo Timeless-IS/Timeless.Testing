@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeless.Testing", "Timeless.Testing\Timeless.Testing.csproj", "{5527C75C-508C-4B6D-BCD6-648B638A5B6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timeless.Testing", "Timeless.Testing\Timeless.Testing.csproj", "{5527C75C-508C-4B6D-BCD6-648B638A5B6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeless.Testing.Examples", "Timeless.Testing.Examples\Timeless.Testing.Examples.csproj", "{1976F3E6-D2BA-447E-8915-2F7DEF30DE07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timeless.Testing.Examples", "Timeless.Testing.Examples\Timeless.Testing.Examples.csproj", "{1976F3E6-D2BA-447E-8915-2F7DEF30DE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeless.Testing.Xunit", "Timeless.Testing.Xunit\Timeless.Testing.Xunit.csproj", "{C9EE1E2C-E4EA-43E0-ACFE-A83A40A5D399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1976F3E6-D2BA-447E-8915-2F7DEF30DE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1976F3E6-D2BA-447E-8915-2F7DEF30DE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1976F3E6-D2BA-447E-8915-2F7DEF30DE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EE1E2C-E4EA-43E0-ACFE-A83A40A5D399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EE1E2C-E4EA-43E0-ACFE-A83A40A5D399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EE1E2C-E4EA-43E0-ACFE-A83A40A5D399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EE1E2C-E4EA-43E0-ACFE-A83A40A5D399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
