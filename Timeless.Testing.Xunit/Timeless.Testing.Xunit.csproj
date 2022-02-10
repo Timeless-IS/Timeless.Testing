@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Fabio Marini</Authors>
+    <Description>Extensions for Xunit</Description>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageProjectUrl>https://github.com/timeless-is/Timeless.Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/timeless-is/Timeless.Extensions</RepositoryUrl>
+    <IsPackable>true</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>

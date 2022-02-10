@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Fabio Marini</Authors>
+    <Description>A simple and extensible framework for writing all types of tests</Description>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageProjectUrl>https://github.com/timeless-is/Timeless.Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/timeless-is/Timeless.Extensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
