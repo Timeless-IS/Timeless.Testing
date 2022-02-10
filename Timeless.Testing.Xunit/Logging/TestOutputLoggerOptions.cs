@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MediatR.Extensions.Azure.Storage.Examples
+namespace Timeless.Testing.Xunit
 {
     public class TestOutputLoggerOptions
     {

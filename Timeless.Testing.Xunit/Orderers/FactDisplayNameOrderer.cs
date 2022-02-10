@@ -3,7 +3,7 @@ using System.Linq;
 using Xunit.Abstractions;
 using Xunit.Sdk;
 
-namespace MediatR.Extensions.Tests
+namespace Timeless.Testing.Xunit
 {
     public class FactDisplayNameOrderer : ITestCaseOrderer
     {

@@ -3,7 +3,7 @@ using Microsoft.Extensions.Options;
 using System;
 using Xunit.Abstractions;
 
-namespace MediatR.Extensions.Azure.Storage.Examples
+namespace Timeless.Testing.Xunit
 {
     public class TestOutputLogger : ILogger
     {
