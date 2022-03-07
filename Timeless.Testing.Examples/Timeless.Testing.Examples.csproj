@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Timeless.Testing.Xunit\Timeless.Testing.Xunit.csproj" />
     <ProjectReference Include="..\Timeless.Testing\Timeless.Testing.csproj" />
   </ItemGroup>
 

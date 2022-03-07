@@ -27,7 +27,7 @@ namespace Timeless.Testing.Xunit
                 return;
             }
 
-            log.WriteLine($"[{logLevel,-11}]: {formatter(state, exception)}");
+            log.WriteLine($"[{logLevel,-11}]: {formatter(state, exception)}\r\n{exception}");
         }
     }
 }
